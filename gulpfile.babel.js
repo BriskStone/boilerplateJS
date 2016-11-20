@@ -62,5 +62,6 @@ gulp.task('watch', () => {
   gulp.watch(paths.allSrcJs, ['main']);
 });
 
+
 //Special task for CLI gulp command. Runs Watch and main.
 gulp.task('default', ['watch', 'main']);

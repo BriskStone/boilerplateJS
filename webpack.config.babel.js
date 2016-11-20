@@ -15,4 +15,5 @@ export default {
   resolve: {
     extensions: ['', '.js', '.jsx'],
   },
+  entry: "./src/client/app.js"
 };

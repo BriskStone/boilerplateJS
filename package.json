@@ -20,6 +20,7 @@
         "gulp": "^3.9.1",
         "gulp-babel": "^6.1.2",
         "gulp-eslint": "^3.0.1",
+        "webpack-dev-server": "^1.16.2",
         "webpack-stream": "^3.2.0"
     },
     "babel": {
